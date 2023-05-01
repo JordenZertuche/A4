@@ -1,0 +1,13 @@
+ExampleOutputProj4.txt
+Sorted Players by Position (merge sort):
+Player [name=Judy Miller, age=12, position=CB, team=Bears, height=1.5276703089058485, weight=163.45530979515783, number=22, yearsPro=16th Year, salary=340547.0]
+Player [name=Judy Wilson, age=93, position=OL, team=Jaguars, height=1.1883984300002806, weight=225.09492164552378, number=84, yearsPro=10th Year, salary=436640.0]
+Player [name=Heidi Miller, age=54, position=QB, team=Cardinals, height=2.9630341652692906, weight=202.07724840871708, number=46, yearsPro=19th Year, salary=462378.0]
+Player [name=Bob Wilson, age=25, position=RB, team=Bills, height=2.5980937848300174, weight=192.99423123040387, number=51, yearsPro=11th Year, salary=876012.0]
+Player [name=Bob Miller, age=67, position=S, team=Broncos, height=2.6324216444825312, weight=209.9901659326991, number=2, yearsPro=13th Year, salary=590016.0]
+Player [name=Grace Jones, age=40, position=S, team=Redskins, height=3.0330155594609156, weight=97.17539849119244, number=81, yearsPro=15th Year, salary=535369.0]
+Player [name=David Smith, age=43, position=TE, team=Browns, height=2.7705722543329383, weight=40.29517080203308, number=56, yearsPro=15th Year, salary=304320.0]
+Player [name=Heidi Smith, age=71, position=TE, team=Broncos, height=3.2079271732257317, weight=106.02761694404558, number=57, yearsPro=4th Year, salary=714160.0]
+Player [name=David Brown, age=25, position=TE, team=Cardinals, height=2.0203419286318822, weight=173.4269601963061, number=84, yearsPro=13th Year, salary=517285.0]
+Player [name=Judy Garcia, age=45, position=WR, team=Lions, height=3.030111028745494, weight=5.921868778733841, number=65, yearsPro=18th Year, salary=179971.0]
+Enter the name of the Player to search for:
